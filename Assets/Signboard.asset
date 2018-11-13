@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3db36c1731914ec4496d0d83b3360bc7, type: 3}
+  m_Name: Signboard
+  m_EditorClassIdentifier: 
+  flow:
+  - id: 0
+    name: 
+    message: "\u770B\u677F\u3060\u3088"
+  - id: 0
+    name: 
+    message: "\u770B\u677F\u304B\u3082\u3057\u308C\u306A\u3044"
+  - id: 0
+    name: 
+    message: "\u304A\u3084\u2026\u770B\u677F\u306E\u69D8\u5B50\u304C\u2026"
