@@ -12,12 +12,15 @@ MonoBehaviour:
   m_Name: Signboard
   m_EditorClassIdentifier: 
   flow:
-  - id: 0
-    name: 
-    message: "\u770B\u677F\u3060\u3088"
-  - id: 0
-    name: 
-    message: "\u770B\u677F\u304B\u3082\u3057\u308C\u306A\u3044"
-  - id: 0
-    name: 
-    message: "\u304A\u3084\u2026\u770B\u677F\u306E\u69D8\u5B50\u304C\u2026"
+  - id: 1
+    name:""
+    message: "看板だよ"
+  - id: 2
+    name:""
+    message: "看板かもしれない"
+  - id: 3
+    name:""
+    message: "おや…看板の様子が…"
+  - id: 4
+    name:""
+    message: "看板ですよ"
